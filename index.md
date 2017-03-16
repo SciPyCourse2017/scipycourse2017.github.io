@@ -4,7 +4,9 @@ layout: index
 #tagline: page tagline
 ---
 
-**LMU Biozentrum, Room D00.013; Lecture: 13-14:30; Exercise class: 14:30-16**
+**LMU Biozentrum, Room D00.013**
+
+**Lecture: 13-14:30; Exercise class: 14:30-16**
 
 Taught by [Martin Spacek](http://mspacek.github.io) (lecture) and [Nick Del
 Grosso](https://github.com/neuroneuro15) (exercise class), scheduled back-to-back, every
@@ -24,5 +26,4 @@ Students are expected to bring their own laptop. A minimal level of attendance a
 participation in both is required, but no homework will be assigned.
 
 This course corresponds to lectures no. 19291 and 19292 in the official [course
-listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=636766&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltungHere).
-
+listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=636766&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung).

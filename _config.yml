@@ -1,0 +1,19 @@
+## This file configures your site
+
+# Site name (displayed in the header), access with {{ site.name }}:
+name: SciPyCourse2017
+
+# Site tagline (displayed in the header), access with {{ site.tagline }}:
+tagline: Introduction to Scientific Analysis in Python, LMU, 2017
+
+# Path to GitHub respository, appended to https://github.com/, access with {{ site.repo }}:
+repo: path/to/repo
+
+## other configuration options:
+markdown: kramdown
+highlighter: rouge
+
+# Exclude these files from your production _site:
+exclude:
+    - LICENSE
+    - README.md

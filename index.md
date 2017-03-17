@@ -40,7 +40,8 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 1. numpy ND arrays, numpy functions
 1. algorithms
 1. organizing code
-1. version control with [Git](https://git-scm.com/)
+1. [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+   with [Git](https://git-scm.com/)
 1. object-oriented programming
 1. data analysis with [Pandas](http://pandas.pydata.org)
 1. command line interfaces

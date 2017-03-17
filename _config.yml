@@ -7,7 +7,7 @@ name: SciPyCourse2017
 tagline: Introduction to Scientific Analysis in Python, LMU, 2017
 
 # Path to GitHub respository, appended to https://github.com/, access with {{ site.repo }}:
-repo: path/to/repo
+repo: SciPyCourse2017
 
 ## other configuration options:
 markdown: kramdown

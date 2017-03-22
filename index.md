@@ -47,3 +47,31 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 1. command line interfaces
 1. organizing data, code, results
 1. intro to GUIs with [PyQt](https://en.wikipedia.org/wiki/PyQt)
+
+# Tutorials
+
+These are all free, and require no signup or login:
+
+### Basic Python
+
+* <http://introtopython.org> - is excellent!
+
+* <http://learnpython.org> - has online editable and executable code
+
+* <http://interactivepython.org/runestone/static/thinkcspy/index.html> - also has online
+  editable and executable code, plus quizzes and videos
+
+### Specific libraries
+
+* Numpy is probably the most important data analysis library for Python:
+  <https://docs.scipy.org/doc/numpy-dev/user/quickstart.html>
+
+* SciPy is another important library:
+  <https://docs.scipy.org/doc/scipy/reference/tutorial>
+
+* Matplotlib is the most popular plotting library:
+  <http://matplotlib.org/users/pyplot_tutorial.html>
+
+* Pandas is another useful Python library for data analysis, built on top of numpy, that we'll
+  introduce in the course. It has several tutorials:
+  <http://pandas.pydata.org/pandas-docs/stable/tutorials.html>

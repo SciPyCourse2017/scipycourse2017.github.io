@@ -39,14 +39,14 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 1. plotting with [matplotlib](http://matplotlib.org)
 1. numpy ND arrays, numpy functions
 1. algorithms
-1. organizing code
+1. organizing code, data, results
 1. [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
    with [Git](https://git-scm.com/)
 1. [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) programming
 1. data analysis with [Pandas](http://pandas.pydata.org)
 1. command line interfaces
-1. organizing data, code, results
 1. intro to GUIs with [PyQt](https://en.wikipedia.org/wiki/PyQt)
+1. data acquisition
 
 # Tutorials
 

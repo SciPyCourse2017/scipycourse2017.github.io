@@ -11,7 +11,7 @@ layout: index
 Taught by [Martin Spacek](http://mspacek.github.io) (lecture) and [Nick Del
 Grosso](https://github.com/neuroneuro15) (exercise class)
 
-Class notes and files: [https://github.com/SciPyCourse2017](https://github.com/SciPyCourse2017)
+Class notes and files: <https://github.com/SciPyCourse2017/notes>
 
 # Description
 

@@ -34,7 +34,7 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 
 1. Python basics
 1. Python basics 2
-1. [IPython](http://ipython.org), collections
+1. collections, files
 1. [numpy](http://numpy.org) 1D arrays
 1. plotting with [matplotlib](http://matplotlib.org)
 1. numpy ND arrays, numpy functions
@@ -42,7 +42,7 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 1. organizing code
 1. [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
    with [Git](https://git-scm.com/)
-1. object-oriented programming
+1. [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) programming
 1. data analysis with [Pandas](http://pandas.pydata.org)
 1. command line interfaces
 1. organizing data, code, results
@@ -60,6 +60,16 @@ These are all free, and require no signup or login:
 
 * <http://interactivepython.org/runestone/static/thinkcspy/index.html> - also has online
   editable and executable code, plus quizzes and videos
+
+### IPython and Jupyter
+
+* [IPython](http://ipython.org) is an improved Python interactive terminal. This is
+  what wewill mostly spend our time in:
+  <http://ipython.readthedocs.io/en/stable/interactive/tutorial.html>
+
+* [Jupyter](http://jupyter.org) is IPython running in a web browser. It allows you to create
+  "notebooks" that combine code, formatted text, and results:
+  <http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/examples_index.html>
 
 ### Specific libraries
 

@@ -45,7 +45,8 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 1. [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) programming
 1. data analysis with [Pandas](http://pandas.pydata.org)
 1. command line interfaces
-1. intro to GUIs with [PyQt](https://en.wikipedia.org/wiki/PyQt)
+1. intro to GUIs: [Jupyter](http://jupyter.org) notebook &
+   [PyQt](https://en.wikipedia.org/wiki/PyQt)
 1. data acquisition
 
 # Tutorials

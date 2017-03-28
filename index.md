@@ -64,7 +64,7 @@ These are all free, and require no signup or login:
 ### IPython and Jupyter
 
 * [IPython](http://ipython.org) is an improved Python interactive terminal. This is
-  what wewill mostly spend our time in:
+  what we will mostly spend our time in:
   <http://ipython.readthedocs.io/en/stable/interactive/tutorial.html>
 
 * [Jupyter](http://jupyter.org) is IPython running in a web browser. It allows you to create

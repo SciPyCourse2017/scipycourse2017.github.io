@@ -92,3 +92,5 @@ These are all free, and require no signup or login:
 * [Basic Python](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
 * [Numpy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+
+* [Numpy for MATLAB users](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html)

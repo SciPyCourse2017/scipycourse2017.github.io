@@ -33,21 +33,21 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 # Outline
 
 1. Python basics
-1. Python basics 2
-1. collections, files
-1. [numpy](http://numpy.org) 1D arrays
-1. plotting with [matplotlib](http://matplotlib.org)
-1. numpy ND arrays, numpy functions
-1. algorithms
-1. organizing code, data, results
-1. [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+2. Python basics 2
+3. collections
+4. [numpy](http://numpy.org) 1D arrays
+5. more numpy, plotting with [matplotlib](http://matplotlib.org)
+6. more matplotlib, matrices
+7. statistics
+8. data analysis with [Pandas](http://pandas.pydata.org)
+9. organizing code, data, results
+10. [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
    with [Git](https://git-scm.com/)
-1. [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) programming
-1. data analysis with [Pandas](http://pandas.pydata.org)
-1. command line interfaces
-1. intro to [GUIs](https://en.wikipedia.org/wiki/Graphical_user_interface):
+11. [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) programming
+12. command line interfaces
+13. intro to [GUIs](https://en.wikipedia.org/wiki/Graphical_user_interface):
    [Jupyter](http://jupyter.org) notebook & [PyQt](https://en.wikipedia.org/wiki/PyQt)
-1. data acquisition
+14. data acquisition
 
 # Tutorials
 

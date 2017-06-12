@@ -40,14 +40,13 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 6. more matplotlib, matrices
 7. statistics
 8. data analysis with [Pandas](http://pandas.pydata.org)
-9. organizing code, data, results
-10. [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+9. review
+10. image analysis
+11. organizing code, data, results
+12. [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
    with [Git](https://git-scm.com/)
-11. [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) programming
-12. command line interfaces
-13. intro to [GUIs](https://en.wikipedia.org/wiki/Graphical_user_interface):
-   [Jupyter](http://jupyter.org) notebook & [PyQt](https://en.wikipedia.org/wiki/PyQt)
-14. data acquisition
+13. [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) programming
+14. command line interfaces
 
 # Tutorials
 

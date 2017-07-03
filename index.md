@@ -42,11 +42,11 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 8. data analysis with [Pandas](http://pandas.pydata.org)
 9. review
 10. image analysis
-11. organizing code, data, results, and [version
+11. organizing code, data, results; [version
 control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) with
-[Git](https://git-scm.com/)
-12. regression and clustering, work on project
-13. hierarchical indexing in pandas, work on project
+[Git](https://git-scm.com/); work on project
+12. regression and clustering; work on project
+13. hierarchical indexing in pandas; work on project
 
 # Class project
 

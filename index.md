@@ -42,11 +42,15 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 8. data analysis with [Pandas](http://pandas.pydata.org)
 9. review
 10. image analysis
-11. organizing code, data, results
-12. [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-   with [Git](https://git-scm.com/)
-13. [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) programming
-14. command line interfaces
+11. organizing code, data, results, and [version
+control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) with
+[Git](https://git-scm.com/)
+12. regression and clustering, work on project
+13. hierarchical indexing in pandas, work on project
+
+# Class project
+
+Here are the [class project guidelines](project.md).
 
 # Tutorials
 

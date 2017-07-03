@@ -17,10 +17,10 @@ Analyze (or reanalyze) some of your own real data, so that it's immediately usef
 - use a for loop
 - use a while loop
 - write at least one function, include a docstring
-- print out some results in at least one nicely formatted string, using string operator % or .format() method
+- print out some results in at least one nicely formatted string, using string operator `%` or `.format()` method
 - use at least one vectorized math operation on an array
 - use at least one matrix operation on a 2D array
-- create a figure with multiple axes (i.e., use plt.subplots(nrows, ncols))
+- create a figure with multiple axes (i.e., use `plt.subplots(nrows, ncols)`)
 - do a statistical test - show that the test assumptions hold for your data
 - manipulate and analyze data in a pandas series or dataframe
 - use an image processing algorithm

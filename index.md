@@ -8,6 +8,8 @@ layout: index
 **LMU Biozentrum, Room D00.013**<br>
 **Lecture: 13-14:30; Exercise class: 14:30-16**
 
+**NOTE: On July 18, 2017, the class will be held in room B01.019 (small lecture theatre)**
+
 Taught by [Martin Spacek](http://mspacek.github.io) (lecture) and [Nick Del
 Grosso](https://github.com/neuroneuro15) (exercise class)
 
@@ -45,8 +47,8 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 11. organizing code, data, results; [version
 control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) with
 [Git](https://git-scm.com/); work on project
-12. regression and clustering; work on project
-13. hierarchical indexing in pandas; work on project
+12. hierarchical indexing in pandas; work on project
+13. dimension reduction & clustering; work on project
 
 # Class project
 

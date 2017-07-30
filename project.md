@@ -39,4 +39,4 @@ Submit directly to Martin, either on a USB stick or via email, or post the files
 
 ### Due date:
 
-July 31, 2017
+August 7, 2017

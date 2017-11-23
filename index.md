@@ -6,7 +6,7 @@ layout: index
 
 **Tuesdays, April 25 to July 25, 2017**<br>
 **LMU Biozentrum, Room D00.013**<br>
-**Lecture: 13-14:30; Exercise class: 14:30-16**
+**Lecture: 13-14:30; Exercise class: 14:30-16; 3 ECTS total**
 
 **NOTE: On July 18, 2017, the class will be held in room B01.019 (small lecture theatre)**
 
